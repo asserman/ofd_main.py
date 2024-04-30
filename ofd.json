@@ -1,0 +1,69 @@
+{
+   "Version": 3,
+   "DocumentFormat": "1.05",
+   "Document": {
+      "Tag": 3,
+      "UserInn": "2130133051",
+      "Number": 1,
+      "DateTime": "2022-09-30T17:36:00",
+      "ShiftNumber": 5,
+      "OperationType": 1,
+      "TaxationType": 4,
+      "Operator": "Долгова Наталия Эдуардовна",
+      "KKT_RegNumber": "0002842895012548    ",
+      "FN_FactoryNumber": "9960440503053272",
+      "Items": [
+         {
+            "Name": "Сумма перевода",
+            "Price": 877000,
+            "Quantity": 1,
+            "Total": 877000,
+            "CalculationMethod": 4,
+            "SubjectType": 1,
+            "NDS_Rate": 5,
+            "NDS_Summ": 0
+         },
+         {
+            "Name": "Комиссия",
+            "Price": 17155,
+            "Quantity": 1,
+            "Total": 17155,
+            "CalculationMethod": 4,
+            "SubjectType": 1,
+            "NDS_Rate": 5,
+            "NDS_Summ": 0
+         }
+      ],
+      "MoneyOperator_Phone": [
+         "7-495-2313645"
+      ],
+      "BankAgent_Operation": "Прием наличных",
+      "MoneyOperator_Name": "КИВИ Банк АО",
+      "MoneyOperator_Address": "г. Москва мкр.Чертаново Северное, д.1а корп.1",
+      "MoneyOperator_INN": "3123011520",
+      "Nds00_TotalSumm": 894155,
+      "Amount_Total": 894155,
+      "Amount_Cash": 894155,
+      "Amount_ECash": 0,
+      "Document_Number": 19,
+      "FiscalSign": "MQS55IJ6",
+      "DecimalFiscalSign": "3118760570",
+      "Format_Version": 2,
+      "Amount_Advance": 0,
+      "Amount_Loan": 0,
+      "Amount_Granting": 0,
+      "Supplier_Phone": [
+         "7-495-2313645"
+      ],
+      "PaymentAgentMode": 1
+   },
+   "Tag": 3,
+   "UserInn": "2130133051",
+   "KktRegNumber": "0002842895012548",
+   "FnNumber": "9960440503053272",
+   "DocNumber": 19,
+   "DocDateTime": "2022-09-30T17:36:00",
+   "DocFiscalSign": "MQS55IJ6",
+   "DecimalFiscalSign": "3118760570",
+   "CDateUtc": "2022-09-30T14:40:17"
+}
